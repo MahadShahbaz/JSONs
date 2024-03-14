@@ -1,0 +1,34 @@
+{
+    "categories" : [
+        {
+            "categoryName" : "sample 1",
+            "streams": [
+                {
+                    "name":"channel 1",
+                    "url": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
+                },
+                {
+                    "name":"channel 2",
+                    "url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8"
+                },
+                {
+                    "name":"channel 3",
+                    "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
+                }
+            ]
+        },
+        {
+            "categoryName" : "sample 2",
+            "streams": [
+                {
+                    "name":"channel 1",
+                    "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on"
+                },
+                {
+                    "name":"channel 2",
+                    "url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+                }
+            ]
+        }
+    ]
+}
