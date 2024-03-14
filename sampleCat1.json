@@ -1,0 +1,17 @@
+{
+    "categoryName" : "sample 1",
+    "streams": [
+        {
+            "name":"channel 1",
+            "url": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
+        },
+        {
+            "name":"channel 2",
+            "url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8"
+        },
+        {
+            "name":"channel 3",
+            "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
+        }
+    ]
+}
