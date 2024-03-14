@@ -1,9 +1,9 @@
 {
-    "categoryName" : "sample 1",
+    "categoryName" : "sample 3",
     "streams": [
         {
             "name":"channel 1",
-            "url": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
+            "url": "https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8"
         },
         {
             "name":"channel 2",
