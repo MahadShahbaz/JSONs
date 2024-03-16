@@ -1,0 +1,19 @@
+{
+    "data" : [
+    {
+    "id": 1,
+    "name": "BBC",
+    "logo": "https://www.shutterstock.com/image-vector/tv-television-electronic-media-logo-600nw-1138807478.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SPORT TV3",
+        "logo": "https://www.shutterstock.com/image-vector/tv-television-electronic-media-logo-600nw-1138807478.jpg"
+    },
+    {
+    "id": 3,
+    "name": "MAROC TV",
+    "logo": "https://www.shutterstock.com/image-vector/tv-television-electronic-media-logo-600nw-1138807478.jpg"
+    }
+    ]
+    }
